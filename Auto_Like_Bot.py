@@ -33,4 +33,4 @@ while n <= int(num):
     time.sleep(1)
     n += 1
 # wpO6b
-driver.close()
+driver.quit()
